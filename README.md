@@ -1,0 +1,1 @@
+# Simple exemple of Ruby on Rails Auction App
