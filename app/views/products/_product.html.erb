@@ -1,4 +1,4 @@
-<div class="col">
+<div class="col" id='<%= dom_id(product) %>'>
   <div class="card">
     <%= link_to product_path(product) do %>
       <%= image_tag product.picture_url, class: 'card-img-top', height: '200px' %>
